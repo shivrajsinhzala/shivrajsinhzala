@@ -57,3 +57,5 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajsinhzala&" alt="shivrajsinhzala" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=shivrajsinhzala&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajsinhzala" /></p>
+
+<img src="./snake.svg" alt="snake animation"/>
