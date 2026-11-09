@@ -89,6 +89,14 @@ WordPress • Shopify • Squarespace • Webflow
 
 # ⭐ Featured Projects
 
+## 🚌 Headway — Transit Timetables
+
+Fast, lightweight public transit schedule lookup and timetable viewer covering 120+ transit agencies worldwide, built from open GTFS data with sub-100ms load times and offline PWA support.
+
+🔗 **[headway.shivrajsinh.in](https://headway.shivrajsinh.in)** • 📂 **[GitHub Repository](https://github.com/shivrajsinhzala/transit-timetables)**
+
+---
+
 ## 🌐 Personal Portfolio
 
 A modern portfolio showcasing my work, projects and experience.
