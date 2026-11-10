@@ -97,11 +97,11 @@ Phone-friendly bus, tram, train and ferry timetables for 123 transit systems acr
 
 ---
 
-## 🚌 Headway — Transit Timetables
+## 🚌 Headway — Phone-Friendly Transit Timetables
 
-Fast, lightweight public transit schedule lookup and timetable viewer covering 120+ transit agencies worldwide, built from open GTFS data with sub-100ms load times and offline PWA support.
+Fast, mobile-optimized public transit schedule lookup and timetable viewer built from open GTFS data. High-contrast route timetables, next-departure countdowns, and headway frequency breakdowns across Australia and US transit networks with sub-100ms load times.
 
-🔗 **[headway.shivrajsinh.in](https://headway.shivrajsinh.in)** • 📂 **[GitHub Repository](https://github.com/shivrajsinhzala/transit-timetables)**
+🔗 **[headway.shivrajsinh.in](https://headway.shivrajsinh.in)** • 📂 **[GitHub Repository](https://github.com/shivrajsinhzala/headway)**
 
 ---
 
