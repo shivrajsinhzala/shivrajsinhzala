@@ -89,6 +89,14 @@ WordPress • Shopify • Squarespace • Webflow
 
 # ⭐ Featured Projects
 
+## ⏱️ Stopwatch — Global Transit Timetables
+
+Phone-friendly bus, tram, train and ferry timetables for 123 transit systems across 6 countries (US, UK, Canada, Australia, Ireland, New Zealand), generated from official open GTFS data. Static Astro site with sub-second FCP and offline departure boards.
+
+🔗 **[transit.shivrajsinh.in](https://transit.shivrajsinh.in)** • 📂 **[GitHub Repository](https://github.com/shivrajsinhzala/transit-timetables)**
+
+---
+
 ## 🚌 Headway — Transit Timetables
 
 Fast, lightweight public transit schedule lookup and timetable viewer covering 120+ transit agencies worldwide, built from open GTFS data with sub-100ms load times and offline PWA support.
